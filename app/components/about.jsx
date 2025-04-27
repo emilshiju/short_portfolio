@@ -13,19 +13,19 @@ const About = ()=>{
 
 <div className="text-[15px] lg:text-[17px] text-black dark:text-white mt-10">
 <p>
-  I'm Hisham Paloli, a self-taught developer passionate about leveraging cutting-edge technologies to tackle digital challenges. With expertise in a wide range of tools and frameworks, including Node.js, React.js, Django, Express.js, TypeScript, Next.js, Redux, MongoDB, PostgreSQL, Socket.io, and WebRTC, I specialize in full-stack development.
+Hi, I'm Emil Shiju — a passionate self-taught Full Stack Developer with strong problem-solving skills and experience working with a wide range of tools and frameworks like MongoDB, Express, React, Node.js, Python, TypeScript, Next.js, PostgreSQL, GraphQL, WebRTC, Socket.io, and Git, with a special focus on the MERN stack.
 </p>
 <p>
-  My journey into the world of technology began at a young age, fueled by a lifelong fascination with innovation. Despite exploring various fields and interests, it was in software development where I found my true calling. My coding odyssey commenced during my 11th grade, starting with C, and has since evolved into full-stack proficiency, encompassing advanced stacks and paradigms in the field.
+After completing my higher secondary education, I built my coding skills through self-learning. I worked for long hours, dedicating months to developing my skills and successfully completing many industry-level projects. Through this journey, I gained real-world experience in building full-stack applications from scratch.
 </p>
 <p>
-  My architectural skills encompass Microservices, Clean Architecture, MVC Architecture, and integration with Kafka, Redis, RabbitMQ, Celery, Docker, Kubernetes, AWS, and Databricks. I excel in database design and have experience with various services such as Razorpay, Stripe, PayPal, Chargebee, S3, Cloudinary, Twilio, SendGrid, Firebase, Node Mailer, Google Dialogflow, Tawk, Zego Cloud, OAuth 2.0, JWT, Postman, and JIRA.
+For building projects, I used MVC and clean architecture to ensure structure and scalability, integrating them with AWS, Razorpay, Stripe, PayPal, Chargebee, S3, Cloudinary, Twilio, SendGrid, Firebase, NodeMailer, Zego Cloud, OAuth 2.0, JWT, Postman, and web scrapers.
 </p>
 <p>
-  Committed to writing scalable, maintainable code, I thrive in fast-paced environments, driving projects from conception to deployment with a focus on CI/CD pipelines. My expertise extends to cloud services, ensuring seamless integration and performance optimization.
+Starting my journey as a self-learner, I developed the ability to quickly adapt to new technologies and libraries based on project needs. My strong research skills and independent learning mindset help me stay updated and find the best solutions for every challenge.
 </p>
 <p>
-  Outside of work, I'm an avid learner, continuously expanding my skill set and contributing to the developer community through open-source projects and participation in coding competitions. Let's connect and explore how we can innovate together!
+I'm excited to keep learning and contributing to meaningful projects. If you're looking for someone who loves learning, building, and solving problems -  let's connect and work on something great together.
 </p>
 
 </div>
