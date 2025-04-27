@@ -7,11 +7,11 @@ const About = ()=>{
 
         <div className="mt-10 mb-10  ">
 
-<h1 className="text-[24px] text-black dark:text-white font-bold">Aboue Me </h1>
-<hr className="border-t-2 dark:border-white"/>
+<h1 className="text-[24px] text-black  font-bold">Aboue Me </h1>
+<hr className="border-t-2 "/>
 
 
-<div className="text-[15px] lg:text-[17px] text-black dark:text-white mt-10">
+<div className="text-[15px] lg:text-[17px] text-black  mt-10">
 <p>
 Hi, I'm Emil Shiju — a passionate self-taught Full Stack Developer with strong problem-solving skills and experience working with a wide range of tools and frameworks like MongoDB, Express, React, Node.js, Python, TypeScript, Next.js, PostgreSQL, GraphQL, WebRTC, Socket.io, and Git, with a special focus on the MERN stack.
 </p>

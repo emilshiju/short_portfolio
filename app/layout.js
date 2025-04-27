@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "emil shiju",
-  description: "emil shiju , full stack development,portfolio",
+  description: "emil shiju , full stack developer,portfolio",
 };
 import { ThemeProvider } from "./components/toggle";
 
